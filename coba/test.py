@@ -1,1 +1,1 @@
-print("muhhamad ilhamsyah")
+print("MUHHAMAD ILHAMSYAH")
